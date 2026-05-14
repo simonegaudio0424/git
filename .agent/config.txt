@@ -1,0 +1,2 @@
+# Agent Config
+Questo file assicura che la cartella .agent venga tracciata da Git.
